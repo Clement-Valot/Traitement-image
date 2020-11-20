@@ -1,0 +1,4 @@
+C:\Users\valcr\OneDrive - De Vinci\ESILV\Année 2\informatique\Projet\Solution finale\Code\obj\Debug\Code.csprojResolveAssemblyReference.cache
+C:\Users\valcr\OneDrive - De Vinci\ESILV\Année 2\informatique\Projet\Solution finale\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+C:\Users\valcr\OneDrive - De Vinci\ESILV\Année 2\informatique\Projet\Projet_Info_Valot_Bourdin\Solution finale\Code\obj\Debug\Code.csprojResolveAssemblyReference.cache
+C:\Users\valcr\OneDrive - De Vinci\ESILV\Année 2\informatique\Projet\Projet_Info_Valot_Bourdin\Solution finale\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache

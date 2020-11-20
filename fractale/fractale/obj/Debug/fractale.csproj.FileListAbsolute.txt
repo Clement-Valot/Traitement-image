@@ -1,0 +1,7 @@
+C:\Users\valcr\source\repos\fractale\fractale\bin\Debug\fractale.exe.config
+C:\Users\valcr\source\repos\fractale\fractale\bin\Debug\fractale.exe
+C:\Users\valcr\source\repos\fractale\fractale\bin\Debug\fractale.pdb
+C:\Users\valcr\source\repos\fractale\fractale\obj\Debug\fractale.csprojResolveAssemblyReference.cache
+C:\Users\valcr\source\repos\fractale\fractale\obj\Debug\fractale.csproj.CoreCompileInputs.cache
+C:\Users\valcr\source\repos\fractale\fractale\obj\Debug\fractale.exe
+C:\Users\valcr\source\repos\fractale\fractale\obj\Debug\fractale.pdb
